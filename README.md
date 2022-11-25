@@ -13,9 +13,9 @@ Library Description
   
 Disclaimer
 -------------------
-- **I am not to be held responbile for any errors.**
-- **Use at your own risk.**
-- **Please double check before using these for fabrication.**
+- **By downloading these files, you acknowledge that you are using the files at your own risk.**
+- **I cannot be held responsible for faulty PCBs.**
+- **Always check your parts against a 1:1 printout.**
 - **If you find any errors and would like to report them, create a issue request.**
 
 Requests
