@@ -1,6 +1,6 @@
-# Custom Eagle Libraries
+# Eagle Libraries
 
-This repo consists of Custom EAGLE libraries that I made.
+This repo consists of Custom EAGLE libraries that I made as well as ones I found online and use.
 
 Library Description
 -------------------
